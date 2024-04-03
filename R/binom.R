@@ -1,3 +1,4 @@
+#' @keywords internal
 resid.bin <- function(model) {
   # fitted.values
   y <- model$y
@@ -25,3 +26,4 @@ resid.bin <- function(model) {
   }
   return(empcdf)
 }
+
