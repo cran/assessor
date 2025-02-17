@@ -1,9 +1,9 @@
-9b5b68a5c11f58d36d98fffe143f5022 *DESCRIPTION
-597ea62dc5822d19632801fe27146b3b *LICENSE
+28751d7c51c44cce5d7266789cdb4c84 *DESCRIPTION
 09bcd5402a0b28911cfe9a6da5f3fb86 *NAMESPACE
 45cb4c9d0c39d944c4cd67386d739ba4 *R/2pm.R
 62c0c3ab00fdaf88487a3660c274963c *R/MEPS.R
 bb8c303436c7e7a05c1f80b8e0db6ee4 *R/Ordered_curve.R
+48f986c34482cefab8a02d7f3ac04875 *R/bballHR.R
 4a62a79c23c4183dde44997c7e6786ad *R/binom.R
 79cd517764de3ab5386bd2b06d7ea886 *R/discrete_resid.R
 778f2e63990f20707da2faaa260934c7 *R/logistic.R
@@ -17,7 +17,9 @@ f702e6776ea9d485f300e33b6ae7cb47 *R/semiconti.R
 f55b4549752d772347b800f0cca099d7 *R/znb.R
 de8d23d84e040cc306e04aeb63e6a046 *R/zpois.R
 30bf9c86a59d73832cb9876d34f4054c *data/MEPS.rda
+0c7b50fb060812bb4ec2bd7e48eadbd3 *data/bballHR.rda
 c1ea080fb6182e24bc4da1d650fe9767 *man/MEPS.Rd
+86460cee3d56754c76204ee3798a8261 *man/bballHR.Rd
 0fc1c33872a4f9107f58970d8cc87a17 *man/figures/README-example-1.png
 6b1ccf3c38b9e1e09ecc5a994450ac87 *man/figures/README-example-2.png
 28ba321d27d3d8b6f58d2066ce6097f9 *man/figures/README-example-3.png
